@@ -31,15 +31,6 @@ const data =[
 },
 {
     id:3,
-    category:'javascript',
-    image:Image3,
-    title:"Project Title Three (UIUX)",
-    desc:"Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil,eveniet aliquid culpa officia aut!",
-    demo:'http://egatortutorial.com',
-    github:'https://github.com/egattor'
-},
-{
-    id:4,
     category:'react',
     image:Image4,
     title:"Portfolio Website",
@@ -48,7 +39,7 @@ const data =[
     github:'https://ayush-portfolio-new-github-io.vercel.app/'
 },
 {
-    id:5,
+    id:4,
     category:'react',
     image:Image5,
     title:"Startup React Website",
@@ -57,7 +48,7 @@ const data =[
     github:'https://project1-bkbo.vercel.app/'
 },
 {
-    id:6,
+    id:5,
     category:'frontend',
     image:Image6,
     title:"Blog Website",
@@ -66,7 +57,7 @@ const data =[
     github:'https://blog-website1-6712.onrender.com/'
 },
 {
-    id:7,
+    id:6,
     category:'inprogress',
     image:Image7,
     title:"Food Delivery WebApp",
@@ -75,7 +66,7 @@ const data =[
     github:'https://foodup.vercel.app/'
 },
 {
-    id:8,
+    id:7,
     category:'inprogress',
     image:Image8,
     title:"Ecommerce Website",
