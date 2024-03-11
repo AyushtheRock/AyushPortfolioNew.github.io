@@ -6,32 +6,32 @@ import Image5 from '../../assests/project5.jpg';
 import Image6 from '../../assests/project6.jpg';
 import Image7 from '../../assests/project7.jpg';
 import Image8 from '../../assests/project8.jpg';
-import Image9 from '../../assests/project9.jpg';
+
 
 
 
 const data =[
 {
     id:1,
-    category:'uiux',
+    category:'javascript',
     image:Image1,
-    title:"Project Title One (UIUX)",
-    desc:"Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil,eveniet aliquid culpa officia aut!",
-    demo:'http://egatortutorial.com',
-    github:'https://github.com/egattor'
+    title:"Weather Website",
+    desc:"Provides weather updates created with pure HTML,CSS and JAVASCRIPT ",
+    demo:'https://ayushtherock.github.io/weathernew.github.io/',
+    github:'https://ayushtherock.github.io/weathernew.github.io/'
 },
 {
     id:2,
-    category:'frontend',
+    category:'javascript',
     image:Image2,
-    title:"Project Title Two (UIUX)",
-    desc:"Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil,eveniet aliquid culpa officia aut!",
-    demo:'http://egatortutorial.com',
-    github:'https://github.com/egattor'
+    title:"To do List App",
+    desc:"Create a schedule of your own using this website",
+    demo:'https://ayushtherock.github.io/todonew.github.io/',
+    github:'https://ayushtherock.github.io/todonew.github.io/'
 },
 {
     id:3,
-    category:'uiux',
+    category:'javascript',
     image:Image3,
     title:"Project Title Three (UIUX)",
     desc:"Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil,eveniet aliquid culpa officia aut!",
@@ -40,57 +40,50 @@ const data =[
 },
 {
     id:4,
-    category:'uiux',
+    category:'react',
     image:Image4,
-    title:"Project Title Four (UIUX)",
-    desc:"Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil,eveniet aliquid culpa officia aut!",
-    demo:'http://egatortutorial.com',
-    github:'https://github.com/egattor'
+    title:"Portfolio Website",
+    desc:"Modern responsive portfolio website that shows my work and skills",
+    demo:'https://ayush-portfolio-new-github-io.vercel.app/',
+    github:'https://ayush-portfolio-new-github-io.vercel.app/'
 },
 {
     id:5,
-    category:'frontend',
+    category:'react',
     image:Image5,
-    title:"Project Title Five (UIUX)",
-    desc:"Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil,eveniet aliquid culpa officia aut!",
-    demo:'http://egatortutorial.com',
-    github:'https://github.com/egattor'
+    title:"Startup React Website",
+    desc:"For targeting tech students a demo of startup website",
+    demo:'https://project1-bkbo.vercel.app/',
+    github:'https://project1-bkbo.vercel.app/'
 },
 {
     id:6,
     category:'frontend',
     image:Image6,
-    title:"Project Title Six (UIUX)",
-    desc:"Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil,eveniet aliquid culpa officia aut!",
-    demo:'http://egatortutorial.com',
-    github:'https://github.com/egattor'
+    title:"Blog Website",
+    desc:"Here you can create blogs and post it",
+    demo:'https://blog-website1-6712.onrender.com/',
+    github:'https://blog-website1-6712.onrender.com/'
 },
 {
     id:7,
-    category:'backend',
+    category:'inprogress',
     image:Image7,
-    title:"Project Title Seven (UIUX)",
-    desc:"Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil,eveniet aliquid culpa officia aut!",
-    demo:'http://egatortutorial.com',
-    github:'https://github.com/egattor'
+    title:"Food Delivery WebApp",
+    desc:"Website help to order food online",
+    demo:'https://foodup.vercel.app/',
+    github:'https://foodup.vercel.app/'
 },
 {
     id:8,
-    category:'backend',
+    category:'inprogress',
     image:Image8,
-    title:"Project Title Eight (UIUX)",
-    desc:"Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil,eveniet aliquid culpa officia aut!",
-    demo:'http://egatortutorial.com',
-    github:'https://github.com/egattor'
-},{
-    id:9,
-    category:'backend',
-    image:Image9,
-    title:"Project Title Nine (UIUX)",
-    desc:"Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil,eveniet aliquid culpa officia aut!",
-    demo:'http://egatortutorial.com',
-    github:'https://github.com/egattor'
+    title:"Ecommerce Website",
+    desc:"React.js Website to sell or buy products online",
+    demo:'https://e-commmerce-website4.onrender.com/',
+    github:'https://e-commmerce-website4.onrender.com/'
 }
+
 ]
 
 export default data;
