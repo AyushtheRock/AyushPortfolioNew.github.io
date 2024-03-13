@@ -4,9 +4,9 @@ import { BsEmojiSmile } from "react-icons/bs";
 
 
 const data =[
-    {id:1, icon: <LiaCertificateSolid />,title: 'Experience',desc:'2+ Years Working'},
-    {id:1, icon: <LiaSwatchbookSolid />,title: 'Projects',desc:'180+'},
-    {id:1, icon: <BsEmojiSmile />,title: 'Clients',desc:'70+ happy clients'},
+    {id:1, icon: <LiaCertificateSolid />,title: 'Experience',desc:'Fresher'},
+    {id:1, icon: <LiaSwatchbookSolid />,title: 'Projects',desc:'18+'},
+    {id:1, icon: <BsEmojiSmile />,title: 'Clients',desc:'7+ happy clients'},
 
 ]
 
