@@ -26,11 +26,7 @@ const About = () => {
             ))
           }
          </div>
-          <p>Building projects my clients love always been my passion.
-            Being in the web development industry for over 2 years and serving 
-            more than 70 happy clients worldwide,I'm always motivated to do
-            more! 
-          </p>
+         
           <p>
             Hi, my anme is Ayush Chaurasia from Kanpur. I'm a full-stack web 
             developer with a Bachelors degree in Science.My top
